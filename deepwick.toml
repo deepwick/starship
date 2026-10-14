@@ -1,0 +1,21 @@
+# Deepwick palette for starship. Put these lines at the top of
+# ~/.config/starship.toml, before any [section].
+palette = "deepwick"
+
+[palettes.deepwick]
+black = "#1B2140"
+red = "#F44747"
+green = "#57A64A"
+yellow = "#DCDCAA"
+blue = "#569CD6"
+purple = "#C586C0"
+cyan = "#4EC9B0"
+white = "#D4D4D4"
+bright-black = "#6E7899"
+bright-red = "#FF7A7A"
+bright-green = "#7FC46E"
+bright-yellow = "#F2F2C4"
+bright-blue = "#9CDCFE"
+bright-purple = "#E0A8DC"
+bright-cyan = "#7FE5CF"
+bright-white = "#FFFFFF"
